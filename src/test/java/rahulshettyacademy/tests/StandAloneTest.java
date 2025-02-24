@@ -18,6 +18,9 @@ import rahulshettyacademy.pageobjects.LandingPage;
 public class StandAloneTest {
 
 	public static void main(String[] args) {
+
+		//test comment to check ci/cd
+
 		
 		String productName = "QWERTY";
 		WebDriverManager.chromedriver().setup();
